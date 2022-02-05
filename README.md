@@ -17,6 +17,6 @@ This repository will serve as a means to document my learning.
 - [Section 3 - Sketching](notes/section03-sketching.md)
 - Section 4 - Inspiration
 - [Section 5 - Intro to Figma](img/intro-exercise.png)
-- Section 6 - User Flows
+- [Section 6 - User Flows](notes/section06-userflows.md)
 
 - - -
