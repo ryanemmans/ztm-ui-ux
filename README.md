@@ -20,6 +20,6 @@ This repository will serve as a means to document my learning.
 - [Section 6 - User Flows](notes/section06-userflows.md)
 - [Section 7 - Sitemaps](notes/section07-sitemaps.md)
 - Section 8 - Explore & Iterate
-- Section 9 - Wireframes
+- [Section 9 - Wireframes](notes/section09-wireframes.md)
 
 - - -
