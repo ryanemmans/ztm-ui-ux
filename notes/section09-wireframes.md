@@ -55,11 +55,38 @@ It is a detailed and specific blueprint of your product, providing a clear overv
 
 ### **Keep It Simple**
 
-- Do not concern yourself with high fidelity when wireframing
+- Do not concern yourself with fidelity when wireframing
 - Get people to understand what you're trying to convey
 - Pencil and paper is best for speed
-  - Can be polished up to showcase for clients
+- Can be polished up to showcase for clients
   - Grayscale, 2 fonts max
+  - Can show hierarchy with bolding fonts / size
+
+### Ask important questions
+
+- What are the goals of the user and the business when interacting?
+- How can content be organized?
+- What should the user see first?
+- What is the user *expecting* to see in certain areas?
+
+### Consult user flows and sitemap / story map
+
+- Key requirements and hierarchies
+  - Most and least important elements
+- Discuss risky features to prioritize workflow
+  - Tackle riskiest features first
+
+### Bring team into the process (!important!)
+
+- Gather insights
+  - Business goals, technical challenges
+  - Understand what can and cannot be built in regard to time and money
+    - Reaching MVP and then building in later releases
+
+- - -
+### Initial Wireframe Exercise:
+
+![Sitemap](../img/wireframe.png)
 
 - - -
 
