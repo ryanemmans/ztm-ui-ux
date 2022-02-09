@@ -86,7 +86,18 @@ It is a detailed and specific blueprint of your product, providing a clear overv
 - - -
 ### Initial Wireframe Exercise:
 
-![Sitemap](../img/wireframe.png)
+![Wireframe 1](../img/wireframe1.png)
+
+#### Additional Wireframes:
+
+![Wireframe 2](../img/wireframe2.png)
+
+![Wireframe 3](../img/wireframe3.png)
+
+![Wireframe 4](../img/wireframe4.png)
+
+![Wireframe 5](../img/wireframe5.png)
+
 
 - - -
 
