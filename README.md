@@ -23,5 +23,9 @@ This repository will serve as a means to document my learning.
 - [Section 9 - Wireframes](notes/section09-wireframes.md)
 - [Section 10 - Prototyping](notes/section10-prototyping.md)
 - [Section 11 - Feedback](notes/section11-feedback.md)
+- Section 12 - Visual Design
+- [Section 13 - Spacing & The Grid](notes/section13-thegrid.md)
+- [Section 14 - Typography](notes/section14-typography.md)
+- [Section 15 - Color](notes/section15-color.md)
 
 - - -
