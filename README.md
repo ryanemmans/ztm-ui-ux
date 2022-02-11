@@ -22,5 +22,6 @@ This repository will serve as a means to document my learning.
 - Section 8 - Explore & Iterate
 - [Section 9 - Wireframes](notes/section09-wireframes.md)
 - [Section 10 - Prototyping](notes/section10-prototyping.md)
+- [Section 11 - Feedback](notes/section11-feedback.md)
 
 - - -
