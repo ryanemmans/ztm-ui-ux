@@ -29,6 +29,72 @@
 
 ## Grid Basics
 
+### Base Units
+
+Define what every single measurement will be a multiple of
+
+- Why use base units?
+  - Makes designs consistent
+  - Improves developer handoff
+  - Reduces number of design decisions
+
+![Base Units](../img/grid-baseunit.png)
+
+- 8px base unit makes device scaling easy
+
+### Sizing
+
+All UI elements should be measured in increments of base unit
+
+- Helps with clear alignment, consistency, and hierarchy
+
+![Sizing](../img/grid-sizing.png)
+
+### Padding
+
+Spacing between all elements, should be based off of base unit.
+
+- Makes spacing consistent and readable to users
+
+### Layout
+
+- LINES and BOXES
+
+Anatomy of a Grid
+
+1. Columns
+    - Vertical blocks that span from left to right
+      - Column width generally will not change
+      - Number of columns will change from 12 `(desktop)` to 8 `(tablet)` to 4, 6, or 8 `(mobile)`
+        - Personal preference
+2. Gutters
+    - White space between columns
+    - Dedicated based off base units
+      - Some designs will increase or decrease as you scale up or down
+3. Margins
+    - White space between edge of column and edge of frame
+
+All elements can be combined to build different types of grids
+
+- Manuscript Grid - useful for defining margins and LARGE blocks of text
+- Column Grid - most popular and common
+  - Typically utilize 12 columns - Divisible by 2, 3, 4, and 6
+  - Aids in designing for responsive screens
+
+![Column Grid](../img/grid-column.png)
+
+- Modular Grid - variation of column grid, but with the addition rows
+  - Creates modules that provide additional layout options
+- Baseline Grid - !important! - can be *coupled with* column grid
+  - Consists of horizontal rows
+    - Provide guidance for typography and UI elements
+    - Create vertical rhythm
+    - Based off base unit (4px is recommended)
+    - Line Height is used for placing typography
+      - Bounding box around type
+
+![Baseline](../img/grid-baseline.png)
+
 ## Responsive Grids And Breakpoints
 
 ## Making Our Grid in Figma
