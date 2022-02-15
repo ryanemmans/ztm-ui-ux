@@ -97,9 +97,36 @@ All elements can be combined to build different types of grids
 
 ## Responsive Grids And Breakpoints
 
+Fixed vs Fluid:
+
+![Fixed Fluid](../img/grid-fixedfluid.png)
+
+Responsive w/ Breakpoints
+
+![Responsive Grids](../img/grid-responsive.png)
+
 ## Making Our Grid in Figma
 
+![New Grid](../img/grid-create.png)
+
+![Creating Styles](../img/grid-styles.png)
+
+
 ## Grid Guidelines
+
+- Items should never be left in the gutters!
+  - Adhere to your grid
+- It helps to create grids inside of grids (Parent and child containers)
+  - These grids should also be consistent across UI elements
+
+![Parent Grid](../img/grid-parent.png)
+
+- Outside column is not for padding!
+- Full Bleed Elements
+  - Should stretch to edge of artboard (think background image)
+  - Content/elements within still adhere to grid
+
+![Full Bleed](../img/grid-fullbleed.png)
 
 - - -
 
