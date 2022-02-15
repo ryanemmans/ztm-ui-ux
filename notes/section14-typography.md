@@ -68,6 +68,18 @@ Some typefaces can convey almost any mood (Helvetica)
 
 - Typefaces for specific purpose can help represent and reinforce the voice of a brand.
 
+### Exercise 1:
+
+![Choosing a Typeface](../img/typography1.png)
+
+### Exercise 2:
+
+![Typeface with Branding](../img/typography2.png)
+
+### Exercise 3:
+
+![Type System](../img/typography3.png)
+
 - - -
 
 [back](../README.md)
