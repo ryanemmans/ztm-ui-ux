@@ -56,7 +56,25 @@ Colors should be scalable and additive
   - We tend to read darker colors before lighter colors
   - colorable.jxnblk.com - checks color contrast ratios
 
-## Monochromatic Color Palette
+## Color Exercises
+
+### Monochromatic Color Palette
+
+![Monochromatic](../img/color-mono1.png)
+
+![Monochromatic](../img/color-mono2.png)
+
+![Monochromatic](../img/color-mono3.png)
+
+![Monochromatic](../img/color-contrast.png)
+
+### Expanding a Strict Color Palette
+
+![Strict Palette](../img/color-strict.png)
+
+### Creating Our Own Color Palette
+
+![Create Palette](../img/color-create.png)
 
 - - -
 
