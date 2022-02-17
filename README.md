@@ -27,5 +27,8 @@ This repository will serve as a means to document my learning.
 - [Section 13 - Spacing & The Grid](notes/section13-thegrid.md)
 - [Section 14 - Typography](notes/section14-typography.md)
 - [Section 15 - Color](notes/section15-color.md)
+- [Section 16 - Forms & UI Elements](notes/section16-forms-uielements.md)
+- [Section 17 - Visual Assets](notes/section17-visualassets.md)
+- [Section 18 - Accessibility](notes/section18-accessibility.md)
 
 - - -
