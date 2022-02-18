@@ -30,5 +30,12 @@ This repository will serve as a means to document my learning.
 - [Section 16 - Forms & UI Elements](notes/section16-forms-uielements.md)
 - [Section 17 - Visual Assets](notes/section17-visualassets.md)
 - [Section 18 - Accessibility](notes/section18-accessibility.md)
+- Section 19 - Design Exploration
+- Section 20 - Design Patterns
+- Section 21 - Mobile Design
+- Section 22 - Visual Style & Exploration
+- Section 23 - Motion
+- Section 24 - Microinteractions
+- Section 25 - Putting It All Together
 
 - - -
