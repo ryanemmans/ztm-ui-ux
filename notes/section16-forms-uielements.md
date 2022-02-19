@@ -151,6 +151,20 @@ Assistance - sometimes users will need tips or hints to easily complete forms mo
 
 ## Best Practices for Buttons
 
+Important for any UI, not just within forms
+
+- They should describe the action you want the user to take
+  - Emphasize value of completing a certain action - keep users motivated
+  - Remind user of benefits of completing this flow
+- First person words have higher conversion rates - "Create *my* account"
+  - Makes the experience personable and even more descriptive
+- Make use of primary and secondary buttons to make them easily distinguishable
+  - Expected path should be more prominent
+  - Mobile - buttons should be easily tapable with bigger area - 40-48px - uses 8px base unit
+- Depending on use case, a reset / clear all button can result in data loss, frustration, abandonment
+- Disabled buttons - good for cases where a user cannot progress until all required fields are completed
+  - Background and text will be grayed out
+
 ## Creating Components in Figma
 
 ## Using Atomic Elements
