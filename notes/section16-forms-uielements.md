@@ -87,7 +87,7 @@ Inputs are the most complex UI elements due to their versatility, different stat
 
 ![Input Best Practices 1](../img/inputs-bp1.png)
 
-- Nudge spacing should be based off of base unit (4px) - use `control` + `shift` + `arrow` to nudge
+- Nudge spacing should be based off of base unit (4px) - use `option` + `shift` + `arrow` to nudge
 - **Labels** should be short and sweet!
   - Clear, easy to read, 1 to 2 words
   - Contrast from input font (bold, shrink, sometimes lower opacity) - hierarchy
@@ -165,13 +165,30 @@ Important for any UI, not just within forms
 - Disabled buttons - good for cases where a user cannot progress until all required fields are completed
   - Background and text will be grayed out
 
-## Creating Components in Figma
-
 ## Using Atomic Elements
+
+- Creating components within components
+  - AKA Inception
+  - Ex: labels inside inputs
+- Building components with atomic elements gives you so much more control over larger and more complex components
+
+![Atomic Elements](../img/forms-atomicelements.png)
 
 ## Using Instances in Figma
 
+It is easy to override an instance of a master component
+
+- You can hide an element in a compoent and make it visible / change it in a separate instance
+
+![Overriding an Instance](../img/instances1.png)
+
 ## Editing Instances
+
+- Themed instances, or variants, make it possible to create different *new* components based off changes you've made to an instance
+  - A way to manage component states and variations
+  - This is extremely valuable for working efficiently
+
+![Instance Variations](../img/instances2.png)
 
 ## Responsive Components
 
