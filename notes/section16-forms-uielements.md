@@ -31,6 +31,7 @@ Forms should feel like a friendly conversation between the user and the product.
 ![Forms 1](../img/forms1.png)
 
 - Conversations should have a logical flow
+  - You would not typically ask for sensitive information first
 
 ![Forms 2](../img/forms2.png)
 
@@ -39,11 +40,12 @@ Forms should feel like a friendly conversation between the user and the product.
 ![Forms 3](../img/forms3.png)
 
 - Because we read top to bottom, left to right, columns should remain consistent as to not be confusing
-  - Users also tend to think of right as the *next* step and left as going *back* or the *previous* step.
 
 ![Forms 4](../img/forms4.png)
 
-- Use secondary buttons whenever possible
+- Users also tend to think of right as the *next* step and left as going *back* or the *previous* step.
+  - This depends on the context of the situation
+- Use secondary buttons whenever possible to prevent users from making mistakes
 
 ![Forms 5](../img/forms5.png)
 
