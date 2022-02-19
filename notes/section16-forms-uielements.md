@@ -103,10 +103,51 @@ Inputs are the most complex UI elements due to their versatility, different stat
 
 ![Input Best Practices 3](../img/inputs-bp3.png)
 
-
 ### Part 3
 
+- Icons inside an input serve no purpose other than to reinforce a form label / what is asked of a user
+  - Typically to the left of input text
+  - Sometimes help for accessibility reasons
+- **Actionable** icons - to the right of input text
+  - Chevron for dropdown, show/hide for passwords, clear field etc.
+  - These can be clicked on
+- Feedback - typically shown for successful / error actions
+  - Often used in addition to color - very important for accessibility for colorblind users
+
+![Input Icons](../img/inputs-icons.png)
+
 ### Part 4
+
+Different states tell the user what is currently happening and what should happen next
+
+- Differentiated with text, color, borders
+- Visual cues are integral to a good input
+
+Types of input states:
+
+- Default state - empty field, no interaction yet
+- Active field - user has clicked - highlighted border (outline) and cursor to signify user can type
+- Filled input - all information entered, clicked away from field
+- Disabled - due to requirement restriction, generally filled in / grayed out, cannot be interacted with, sometimes information cannot yet be edited
+- Success state - when an answer/input is correct or valid, uses green color with outline, icon, and bold text
+- Error state - when an answer/input is incorrect or missed, uses red color with outline, icon, and bold text
+  - Error message should ***always*** be inline to / directly underneath input
+
+![Input States](../img/inputs-states.png)
+
+Assistance - sometimes users will need tips or hints to easily complete forms more quickly
+
+- Hint text - right aligned, next to input label, or below input, as opposed to placeholder
+- Auto format - user's answer will be automatically formatted depending on scenario (ex: credit card #, phone #)
+  - Helps users read and review answers
+- Auto complete - saves user time and reduces errors
+  - Used for longer fields, helps with formatting and spelling
+  - Wide variety of use cases, reduces user confusion
+- Default values - prefill text fields with most likely answer
+  - Such as country, so users don't need to scroll through or enter manually
+  - Typically displayed as drop-down
+
+![Input Assistance](../img/inputs-assistance.png)
 
 ## Best Practices for Buttons
 
