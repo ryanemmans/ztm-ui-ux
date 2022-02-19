@@ -56,13 +56,57 @@ Forms should feel like a friendly conversation between the user and the product.
 
 ## Best Practices for Inputs
 
-### 1.
+Inputs are the most complex UI elements due to their versatility, different states, and frequent use
 
-### 2.
+### Part 1
 
-### 3.
+- Text Field - single line, most common
+- Text Area - for longer responses (multiple lines)
+- Dropdown Menus - select menus, best for 5 or more predefined options
+- Check boxes - used for one or ***multiple*** selections, best for 4 or less options
+- Radio buttons - multiple options, but can ONLY select ONE, again best for 4 or less options
 
-### 4.
+#### Advanced Inputs
+
+- Multi-select text field - add multiple inputs, displayed as chips
+  - Users can typically add and remove chips
+
+![Multi-select](../img/advanced-inputs1.png)
+
+- Dropdown search - available matching options appear as user types
+
+![Dropdown search](../img/advanced-inputs2.png)
+
+### Part 2
+
+- Height of input should always be same height as primary button
+  - Maintains visual consistency
+- All input fields in a form should be the same length (as a guideline)
+  - This depends on the information we are asking of the user
+  - Example of an exception:
+
+![Input Best Practices 1](../img/inputs-bp1.png)
+
+- Nudge spacing should be based off of base unit (4px) - use `control` + `shift` + `arrow` to nudge
+- **Labels** should be short and sweet!
+  - Clear, easy to read, 1 to 2 words
+  - Contrast from input font (bold, shrink, sometimes lower opacity) - hierarchy
+  - Only first letter capitalized for easy scanning / readability
+
+![Input Best Practices 2](../img/inputs-bp2.png)
+
+- Placeholders can show repetitive information
+  - Can also hide important information and reduce accessibility
+  - Can be problematic if used as labels or hints
+  - Harder to see due to lower contrast, often undetected by page readers
+  - Hint text can be used on right side of label instead (date formats, number inputs, etc.)
+
+![Input Best Practices 3](../img/inputs-bp3.png)
+
+
+### Part 3
+
+### Part 4
 
 ## Best Practices for Buttons
 
