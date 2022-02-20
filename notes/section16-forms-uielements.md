@@ -190,6 +190,8 @@ It is easy to override an instance of a master component
 
 ![Instance Variations](../img/instances2.png)
 
+More practice with editing instances and creating components:
+
 ![Practice with Components](../img/components-practice.png)
 
 ## Responsive Components
@@ -201,6 +203,8 @@ It is easy to override an instance of a master component
 ![Responsive Components with Constraints](../img/responsive-constraints.png)
 
 ## Creating a Registration Form in Figma
+
+![Registration Form](../img/reg-form.png)
 
 - - -
 
