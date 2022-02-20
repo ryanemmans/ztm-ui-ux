@@ -190,7 +190,15 @@ It is easy to override an instance of a master component
 
 ![Instance Variations](../img/instances2.png)
 
+![Practice with Components](../img/components-practice.png)
+
 ## Responsive Components
+
+- Use constraints especially when designing for responsive websites
+  - Labels and icons should stick according to their alignment with an input
+  - It saves time to use constraints for components as opposed to instances.
+
+![Responsive Components with Constraints](../img/responsive-constraints.png)
 
 ## Creating a Registration Form in Figma
 
