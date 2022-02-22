@@ -9,7 +9,7 @@ Visual assets will play a role in every single project - imagery, illustrations,
     - Budgets are tight and timelines move quick
     - Stock photos are horrible, don't ever use them
     - Sit down with client and/or product team and discuss ways you can improve this
-      - IF budget and time allow, hire a good photographer or illustrator. It makes a world of difference.
+    - IF budget and time allow, hire a good photographer or illustrator. It makes a world of difference.
   - Sometimes you get lucky with good photography or illustration
 
 ### Photography:
@@ -23,9 +23,13 @@ Visual assets will play a role in every single project - imagery, illustrations,
 ### Icons:
 
 - Material Icons - easy to use
-- Figma Plugins - Iconify
+- Figma Plugins - Iconify, Material
 
 ## Working With Photos
+
+![Photo Demo 1](../img/visualassets-photos1.png)
+
+![Photo Demo 2](../img/visualassets-photos2.png)
 
 ## Working With Illustrations
 
