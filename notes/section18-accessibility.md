@@ -9,7 +9,7 @@
 
 ### Accessible design creates a better experience for everyone
 
-![Accessibility](../img/accessibility1.png)
+<img src="../img/accessibility1.png" width="500">
 
 Accessibility should be ingrained in the way we design
 
@@ -29,7 +29,7 @@ Accessibility should be ingrained in the way we design
     - Helps those with visual impairment see certain information on the screen
     - Color Safe : displays current & goal contrast ratios
 
-![Contrast Ratios](../img/accessibility-contrast1.png)
+<img src="../img/accessibility-contrast1.png" width="500">
 
 Readability difference between foreground and background colors
 

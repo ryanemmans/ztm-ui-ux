@@ -46,19 +46,19 @@
 
 ### Mapping Overall Flow
 
-![Map Flow](../img/sketch-map-flow.jpg)
+<img src="../img/sketch-map-flow.jpg" width="600" alt="Map Flow">
 
 ### Screen Flow (Optional User Flow)
 
-![Screen Flow](../img/sketch-screen-flow.jpg)
+<img src="../img/sketch-screen-flow.jpg" width="600" alt="Screen Flow">
 
 ### Navigation Schemes (Structure)
 
-![Nav Schemes](../img/sketch-nav-schemes.jpg)
+<img src="../img/sketch-nav-schemes.jpg" width="600" alt="Nav Schemes">
 
 ### Screen States (Micro Interactions)
 
-![Screen States](../img/sketch-screen-states.jpg)
+<img src="../img/sketch-screen-states.jpg" width="600" alt="Screen States">
 
 - - -
 
