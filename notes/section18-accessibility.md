@@ -52,7 +52,31 @@ Color Contrast Analyzer - Chrome extension - identifies areas on screen that nee
 
 ## Tools to Make Your Design Accessible
 
+Color Safe
+
+- We typically aim for AA standards
+  - More info at w3.org
+
+Colorable - best for experimenting with finding colors
+
+### Figma Plugins
+
+- Contrast
+  - White text on a colored button may be more readable, yet may not meet certain contrast standards
+  - Such cases will come down to user testing
+
+![Contrast Plugin](../img/accessibility-contrast2.png)
+![Contrast Plugin](../img/accessibility-contrast3.png)
+
+- Stark - select layers -> Check contrast
+
+![Stark Plugin](../img/accessibility-contrast4.png)
+
+![Stark Plugin](../img/accessibility-contrast5.png)
+
 ## Visual Patterns Part 2
+
+### Focus States
 
 - - -
 
