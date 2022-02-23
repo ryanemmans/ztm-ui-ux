@@ -39,6 +39,8 @@ Visual assets will play a role in every single project - imagery, illustrations,
 
 ## Figma Plugins and Icons
 
+![Icon Plugin Demo](../img/visualassets-icons1.png)
+
 ## Custom Icons
 
 - - -
