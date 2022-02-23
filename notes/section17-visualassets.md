@@ -43,6 +43,8 @@ Visual assets will play a role in every single project - imagery, illustrations,
 
 ## Custom Icons
 
+![Custom Icons](../img/visualassets-icons2.png)
+
 - - -
 
 [back](../README.md)
