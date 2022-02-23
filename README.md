@@ -13,29 +13,29 @@ This repository will serve as a means to document my learning.
 - - -
 
 - Section 1 - Introduction
-- Section 2 - Getting Started
+- Section 2 - PART 1: Getting Started
 - [Section 3 - Sketching](notes/section03-sketching.md)
 - Section 4 - Inspiration
 - [Section 5 - Intro to Figma](img/intro-exercise.png)
 - [Section 6 - User Flows](notes/section06-userflows.md)
 - [Section 7 - Sitemaps](notes/section07-sitemaps.md)
-- Section 8 - Explore & Iterate
+- Section 8 - PART 2: Explore & Iterate
 - [Section 9 - Wireframes](notes/section09-wireframes.md)
 - [Section 10 - Prototyping](notes/section10-prototyping.md)
 - [Section 11 - Feedback](notes/section11-feedback.md)
-- Section 12 - Visual Design
+- Section 12 - PART 3: Visual Design
 - [Section 13 - Spacing & The Grid](notes/section13-thegrid.md)
 - [Section 14 - Typography](notes/section14-typography.md)
 - [Section 15 - Color](notes/section15-color.md)
 - [Section 16 - Forms & UI Elements](notes/section16-forms-uielements.md)
 - [Section 17 - Visual Assets](notes/section17-visualassets.md)
 - [Section 18 - Accessibility](notes/section18-accessibility.md)
-- Section 19 - Design Exploration
-- Section 20 - Design Patterns
-- Section 21 - Mobile Design
-- Section 22 - Visual Style & Exploration
-- Section 23 - Motion
-- Section 24 - Microinteractions
-- Section 25 - Putting It All Together
+- Section 19 - PART 4: Design Exploration
+- [Section 20 - Design Patterns](notes/section20-designpatterns.md)
+- [Section 21 - Mobile Design](notes/section21-mobiledesign.md)
+- [Section 22 - Visual Style & Exploration](notes/section22-visualstyle-exploration.md)
+- [Section 23 - Motion](notes/section23-motion.md)
+- [Section 24 - Microinteractions](notes/section24-microinteractions.md)
+- Section 25 - PART 5: Putting It All Together
 
 - - -
