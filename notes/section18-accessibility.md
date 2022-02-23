@@ -9,7 +9,7 @@
 
 ### Accessible design creates a better experience for everyone
 
-<img src="../img/accessibility1.png" width="500">
+<img src="../img/accessibility1.png" width="600" alt="Accessibility">
 
 Accessibility should be ingrained in the way we design
 
@@ -29,7 +29,7 @@ Accessibility should be ingrained in the way we design
     - Helps those with visual impairment see certain information on the screen
     - Color Safe : displays current & goal contrast ratios
 
-<img src="../img/accessibility-contrast1.png" width="500">
+<img src="../img/accessibility-contrast1.png" width="600" alt="Contrast">
 
 Readability difference between foreground and background colors
 
@@ -65,18 +65,47 @@ Colorable - best for experimenting with finding colors
   - White text on a colored button may be more readable, yet may not meet certain contrast standards
   - Such cases will come down to user testing
 
-![Contrast Plugin](../img/accessibility-contrast2.png)
-![Contrast Plugin](../img/accessibility-contrast3.png)
+<img src="../img/accessibility-contrast2.png" width="600" alt="Contrast Plugin">
+
+<img src="../img/accessibility-contrast3.png" width="600" alt="Contrast Plugin">
 
 - Stark - select layers -> Check contrast
 
-![Stark Plugin](../img/accessibility-contrast4.png)
+<img src="../img/accessibility-contrast4.png" width="600" alt="Stark Plugin">
 
-![Stark Plugin](../img/accessibility-contrast5.png)
+<img src="../img/accessibility-contrast5.png" width="600" alt="Stark Plugin">
 
 ## Visual Patterns Part 2
 
 ### Focus States
+
+One of the most important features that enables users to use a computer with only a keyboard
+
+- `:focus { outline: 0 };`
+  - This piece of CSS code will cause major accessibility failure
+    - **Do not do this!**
+    - Focus styles and highlighting help keyboard users know what elements they are interacting with
+- Focus outline should also adhere to constrast standards
+- Off screen content (ex: hamburger menus, modals, etc.)
+  - Tabbing through focus points can oftentimes be off screen and cause users to lose track
+    - This can be addressed on the dev side (CSS, JavaScript)
+- **Modals** can be an accessibility nightmare when not done properly
+  - Tabbing through focus points should only be done in a modal when it is open, never behind the modal
+- **Hover States** - should behave the same as focus states if you plan to hide content or an action beneath it.
+
+### Click Targets
+
+- **Cards** - important for accessibility given complexity and numerous state changes
+  - Not every single UI element on a screen needs to be focusable
+    - Only actionable items need to be focused
+- **Target areas** - need to be large enough for users to select on a page
+  - Some users with motor impairments may have difficulty selecting smaller items
+
+### We set out to build products that everyone can enjoy and use easily
+
+- Accessibility should be part of the design process from the early stages
+- Every element and design pattern should be made accessible
+- Always collaborate with your development team
 
 - - -
 
