@@ -6,7 +6,7 @@
 - Helps designers arrange content on the page
   - Serves as a layout skeleton, originally came from print design
 
-<img src="../img/grid1.png" width="600" alt="Grid">
+<img src="../img/grid1.png" width="600px" alt="Grid">
 
 ### History
 
@@ -18,7 +18,7 @@
   - Merger between grid system and golden ratio
   - Created to produce page layouts with margins of fixed ratios
 
-<img src="../img/grid-harmony.png" width="600" alt="Harmony">
+<img src="../img/grid-harmony.png" width="600px" alt="Harmony">
 
 - Industrial Revolution - beginning of mass production
   - Rise of newspapers / posters
@@ -38,7 +38,7 @@ Define what every single measurement will be a multiple of
   - Improves developer handoff
   - Reduces number of design decisions
 
-<img src="../img/grid-baseunit.png" width="600" alt="Base Units">
+<img src="../img/grid-baseunit.png" width="600px" alt="Base Units">
 
 - 8px base unit makes device scaling easy
 
@@ -48,7 +48,7 @@ All UI elements should be measured in increments of base unit
 
 - Helps with clear alignment, consistency, and hierarchy
 
-<img src="../img/grid-sizing.png" width="600" alt="Sizing">
+<img src="../img/grid-sizing.png" width="600px" alt="Sizing">
 
 ### Padding
 
@@ -81,7 +81,7 @@ All elements can be combined to build different types of grids
   - Typically utilize 12 columns - Divisible by 2, 3, 4, and 6
   - Aids in designing for responsive screens
 
-<img src="../img/grid-column.png" width="600" alt="Column Grid">
+<img src="../img/grid-column.png" width="600px" alt="Column Grid">
 
 - Modular Grid - variation of column grid, but with the addition rows
   - Creates modules that provide additional layout options
@@ -93,23 +93,23 @@ All elements can be combined to build different types of grids
     - Line Height is used for placing typography
       - Bounding box around type
 
-<img src="../img/grid-baseline.png" width="600" alt="Baseline">
+<img src="../img/grid-baseline.png" width="600px" alt="Baseline">
 
 ## Responsive Grids And Breakpoints
 
 Fixed vs Fluid:
 
-<img src="../img/grid-fixedfluid.png" width="600" alt="Fixed Fluid">
+<img src="../img/grid-fixedfluid.png" width="600px" alt="Fixed Fluid">
 
 Responsive w/ Breakpoints
 
-<img src="../img/grid-responsive.png" width="600" alt="Responsive Grids">
+<img src="../img/grid-responsive.png" width="600px" alt="Responsive Grids">
 
 ## Making Our Grid in Figma
 
-<img src="../img/grid-create.png" width="600" alt="New Grid">
+<img src="../img/grid-create.png" width="600px" alt="New Grid">
 
-<img src="../img/grid-styles.png" width="600" alt="Creating Styles">
+<img src="../img/grid-styles.png" width="600px" alt="Creating Styles">
 
 ## Grid Guidelines
 
@@ -118,14 +118,14 @@ Responsive w/ Breakpoints
 - It helps to create grids inside of grids (Parent and child containers)
   - These grids should also be consistent across UI elements
 
-<img src="../img/grid-parent.png" width="600" alt="Parent Grid">
+<img src="../img/grid-parent.png" width="600px" alt="Parent Grid">
 
 - Outside column is not for padding!
 - Full Bleed Elements
   - Should stretch to edge of artboard (think background image)
   - Content/elements within still adhere to grid
 
-<img src="../img/grid-fullbleed.png" width="600" alt="Full Bleed">
+<img src="../img/grid-fullbleed.png" width="600px" alt="Full Bleed">
 
 - - -
 
