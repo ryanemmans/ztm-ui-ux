@@ -18,7 +18,7 @@ Sitemaps are hierarchical diagrams that show how pages are organized and priorit
 - Starts with "Home" page (ground zero)
 - Built left to right or top to bottom
 
-<img src="../img/sitemap-anatomy.png" width="600" alt="Anatomy">
+<img src="../img/sitemap-anatomy.png" width="600px" alt="Anatomy">
 
 You may also use a legend with color coding if it helps
 
