@@ -71,11 +71,11 @@ Inputs are the most complex UI elements due to their versatility, different stat
 - Multi-select text field - add multiple inputs, displayed as chips
   - Users can typically add and remove chips
 
-<img src="../img/advanced-inputs1.png" width="400" alt="Multi-select">
+<img src="../img/advanced-inputs1.png" width="400px" alt="Multi-select">
 
 - Dropdown search - available matching options appear as user types
 
-<img src="../img/advanced-inputs2.png" width="400" alt="Dropdown search">
+<img src="../img/advanced-inputs2.png" width="400px" alt="Dropdown search">
 
 ### Part 2
 
@@ -85,7 +85,7 @@ Inputs are the most complex UI elements due to their versatility, different stat
   - This depends on the information we are asking of the user
   - Example of an exception:
 
-<img src="../img/inputs-bp1.png" width="600" alt="Input Best Practices 1">
+<img src="../img/inputs-bp1.png" width="600px" alt="Input Best Practices 1">
 
 - Nudge spacing should be based off of base unit (4px) - use `option` + `shift` + `arrow` to nudge
 - **Labels** should be short and sweet!
@@ -93,7 +93,7 @@ Inputs are the most complex UI elements due to their versatility, different stat
   - Contrast from input font (bold, shrink, sometimes lower opacity) - hierarchy
   - Only first letter capitalized for easy scanning / readability
 
-<img src="../img/inputs-bp2.png" width="600" alt="Input Best Practices 2">
+<img src="../img/inputs-bp2.png" width="600px" alt="Input Best Practices 2">
 
 - Placeholders can show repetitive information
   - Can also hide important information and reduce accessibility
@@ -101,7 +101,7 @@ Inputs are the most complex UI elements due to their versatility, different stat
   - Harder to see due to lower contrast, often undetected by page readers
   - Hint text can be used on right side of label instead (date formats, number inputs, etc.)
 
-<img src="../img/inputs-bp3.png" width="600" alt="Input Best Practices 3">
+<img src="../img/inputs-bp3.png" width="600px" alt="Input Best Practices 3">
 
 ### Part 3
 
@@ -114,7 +114,7 @@ Inputs are the most complex UI elements due to their versatility, different stat
 - Feedback - typically shown for successful / error actions
   - Often used in addition to color - very important for accessibility for colorblind users
 
-<img src="../img/inputs-icons.png" width="600" alt="Input Icons">
+<img src="../img/inputs-icons.png" width="600px" alt="Input Icons">
 
 ### Part 4
 
@@ -133,7 +133,7 @@ Types of input states:
 - Error state - when an answer/input is incorrect or missed, uses red color with outline, icon, and bold text
   - Error message should ***always*** be inline to / directly underneath input
 
-<img src="../img/inputs-state.png" width="600" alt="Input States">
+<img src="../img/inputs-state.png" width="600px" alt="Input States">
 
 Assistance - sometimes users will need tips or hints to easily complete forms more quickly
 
@@ -147,7 +147,7 @@ Assistance - sometimes users will need tips or hints to easily complete forms mo
   - Such as country, so users don't need to scroll through or enter manually
   - Typically displayed as drop-down
 
-<img src="../img/inputs-assistance.png" width="600" alt="Input Assistance">
+<img src="../img/inputs-assistance.png" width="600px" alt="Input Assistance">
 
 ## Best Practices for Buttons
 
@@ -172,7 +172,7 @@ Important for any UI, not just within forms
   - Ex: labels inside inputs
 - Building components with atomic elements gives you so much more control over larger and more complex components
 
-<img src="../img/forms-atomicelements.png" width="600" alt="Atomic Elements">
+<img src="../img/forms-atomicelements.png" width="600px" alt="Atomic Elements">
 
 ## Using Instances in Figma
 
@@ -180,7 +180,7 @@ It is easy to override an instance of a master component
 
 - You can hide an element in a compoent and make it visible / change it in a separate instance
 
-<img src="../img/instances1.png" width="600" alt="Overriding an Instance">
+<img src="../img/instances1.png" width="600px" alt="Overriding an Instance">
 
 ## Editing Instances
 
@@ -188,11 +188,11 @@ It is easy to override an instance of a master component
   - A way to manage component states and variations
   - This is extremely valuable for working efficiently
 
-<img src="../img/instances2.png" width="600" alt="Instance Variations">
+<img src="../img/instances2.png" width="600px" alt="Instance Variations">
 
 More practice with editing instances and creating components:
 
-<img src="../img/components-practice.png" width="600" alt="Practice with Components">
+<img src="../img/components-practice.png" width="600px" alt="Practice with Components">
 
 ## Responsive Components
 
@@ -200,7 +200,7 @@ More practice with editing instances and creating components:
   - Labels and icons should stick according to their alignment with an input
   - It saves time to use constraints for components as opposed to instances.
 
-<img src="../img/responsive-constraints.png" width="600" alt="Responsive Components with Constraints">
+<img src="../img/responsive-constraints.png" width="600px" alt="Responsive Components with Constraints">
 
 ## Creating a Registration Form in Figma
 
