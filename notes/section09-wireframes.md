@@ -25,7 +25,7 @@ It is a detailed and specific blueprint of your product, providing a clear overv
   - A great place to fail!
     - Test assumptions as early as possible before creating high fidelity designs
 
-<img src="../img/wireframe-learn.png" width="600" alt="Learn">
+<img src="../img/wireframe-learn.png" width="600px" alt="Learn">
 
 - The design process is iterative, not linear.
 
