@@ -8,7 +8,7 @@
 
 ### What the user sees -> What they do -> (next screen) What they see next -> What the do next
 
-<img src="../img/userflow-reg.png" width="600" alt="User Flow">
+<img src="../img/userflow-reg.png" width="600px" alt="User Flow">
 
 1. What is the goal or purpose? (Title)
     - Who is doing it?
@@ -35,11 +35,11 @@ User flows should be the most clear model of your product.
 
 ## Speed Up Workflow with Components
 
-<img src="../img/userflow-onboarding.png" width="600" alt="Onboarding">
+<img src="../img/userflow-onboarding.png" width="800px" alt="Onboarding">
 
-<img src="../img/userflow-search.png" width="600" alt="Search">
+<img src="../img/userflow-search.png" width="800px" alt="Search">
 
-<img src="../img/userflow-purchase.png" width="600" alt="Purchase">
+<img src="../img/userflow-purchase.png" width="800px" alt="Purchase">
 
 - - -
 
