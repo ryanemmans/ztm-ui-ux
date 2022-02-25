@@ -6,7 +6,7 @@ Exercises in Prototyping:
 
 ![Prototype Wishlist](../img/prototype3.png)
 
-<img src="../img/prototype-iphone.png" width="400" alt="Prototype Map">
+<img src="../img/prototype-iphone.png" width="400px" alt="Prototype Map">
 
 - - -
 
