@@ -133,7 +133,7 @@ Types of input states:
 - Error state - when an answer/input is incorrect or missed, uses red color with outline, icon, and bold text
   - Error message should ***always*** be inline to / directly underneath input
 
-<img src="../img/inputs-state.png" width="600px" alt="Input States">
+<img src="../img/inputs-states.png" width="600px" alt="Input States">
 
 Assistance - sometimes users will need tips or hints to easily complete forms more quickly
 

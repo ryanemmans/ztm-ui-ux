@@ -21,7 +21,7 @@ Accessibility should be ingrained in the way we design
 - Screen Readers - helps the visually impaired understand content displayed on a webpage
 - Braille Terminals - for the visually impaired to interact with applications
 - Screen magnification software - all elements of a design should be scalable
-- Alternate inpute devices & software
+- Alternate input devices & software
 
 ## Visual Patterns for Accessibility
 

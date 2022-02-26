@@ -3,7 +3,7 @@
 Mobile design is so important especially when building responsive products or mobile specific products
 
 - The difference between a good and bad app is the quality of its user experience
-  - Designing good mobile experiences has never been more important, as phones have replaced computers for many uses.
+  - Designing good mobile experiences has never been more important, as phones have replaced computers for many purposes.
   - Mobile users have high expectations
     - Delight, speed, ease of use
 
