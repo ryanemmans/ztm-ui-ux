@@ -30,13 +30,9 @@ Go back to initial wireframes
 
 Jumping into high-fidelity designs without early user testing and feedback will really make things difficult later. Don't do it!
 
-## Style Exploration Part 1
+## Style Exploration
 
-## Style Exploration Part 2
-
-## Style Exploration Part 3
-
-## Style Exploration Part 4
+<img src="../img/visualstyle-exploration.png" alt="Visual Style and Exploration">
 
 - - -
 
