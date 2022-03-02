@@ -5,7 +5,7 @@
 Motion has the ability to create a great user experience
 
 - Gives users the ability to easily follow along
-- "Motion tells stories. Everything in an app is a sequence, and motion is your guide. For every button clicked and screen transition, there is a store that follows." - Craig Dehner, Former Human Interface team at Apple
+- "Motion tells stories. Everything in an app is a sequence, and motion is your guide. For every button clicked and screen transition, there is a story that follows." - Craig Dehner, Former Human Interface team at Apple
 - Motion is often an afterthought
   - It is incredibly important and should be incorporated earlier in design process
 - Too much motion can degrade the UX
