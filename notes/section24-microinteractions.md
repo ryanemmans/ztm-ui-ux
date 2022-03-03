@@ -91,6 +91,8 @@ Microinteractions are contained product moments that are meant for a single use 
 
 <img src="../img/microinteraction1.gif" alt="Microinteraction gif">
 
+## Using Figmotion
+
 - - -
 
 [back](../README.md)
