@@ -93,6 +93,15 @@ Microinteractions are contained product moments that are meant for a single use 
 
 ## Using Figmotion
 
+Figmotion uses keyframes and easing for different element properties and dimensions.
+
+- Animations can be rendered as .mp4's or .gifs
+- Or exported as .css or .json files.
+
+<img src="../img/figmotion.png" width="600px" alt="Microinteraction">
+
+<img src="../img/figmotion.gif" alt="Microinteraction gif">
+
 - - -
 
 [back](../README.md)
