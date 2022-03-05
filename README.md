@@ -37,5 +37,17 @@ This repository will serve as a means to document my learning.
 - [Section 23 - Motion](notes/section23-motion.md)
 - [Section 24 - Microinteractions](notes/section24-microinteractions.md)
 - Section 25 - PART 5: Putting It All Together
+- [Section 26 - Design Systems](notes/section26-designsystems.md)
+- [Section 27 - Final Compositions](notes/section27-finalcompositions.md)
+- [Section 28 - Working With a Client Revisited](notes/section28-clientrevisited.md)
+- [Section 29 - Where to Go From Here?](notes/section29-wheretogo.md)
+- [Section 30 - Web Portfolio](notes/section30-webportfolio.md)
+- [Section 31 - From Figma to Website](notes/section31-figmatowebsite.md)
+- [Section 32 - Extra: How the Internet Works](notes/section32-internet.md)
+- [Section 33 - Extra: History of the Web](notes/section33-history.md)
+- [Section 34 - Extra: HTML 5](notes/section34-html.md)
+- [Section 35 - Extra: CSS 3](notes/section35-css.md)
+- [Section 36 - Extra: Bootstrap, Templates](notes/section36-bootstrap.md)
+- [Section 37 - Extra: CSS Grid + CSS Layout](notes/section37-cssgridlayout.md)
 
 - - -
