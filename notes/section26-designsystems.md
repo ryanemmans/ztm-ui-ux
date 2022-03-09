@@ -156,11 +156,34 @@ As we create a design system, we are also creating a language
 
 <img src="../img/components-cards3.png" alt="Components Cards 3">
 
+- - -
+
 ## Recipes - Vertical Cards
+
+Recipes can also be referred to as collections of components
+
+- Groups of vertical cards
+  - Horizontal scrolling (large)
+  - Category / search results (small)
+
+<img src="../img/recipes-verticalcards.png" width="800px" alt="Recipes Vertical Cards">
+
+- - -
 
 ## Recipes - Search
 
+- This is good practice for learning Auto Layout
+  - Recipes are essentially massive groups of frames inside frames inside frames
+    - Think rows first, and then columns inside those rows
+    - And then smaller rows could also be inside those columns, etc.
+
+<img src="../img/recipes-search.png" width="800px" alt="Recipes Search">
+
+- - -
+
 ## Recipes - Order List
+
+<img src="../img/recipes-orderlist.png" width="600px" alt="Recipes Order List">
 
 - - -
 
