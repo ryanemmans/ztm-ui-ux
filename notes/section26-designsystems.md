@@ -183,7 +183,7 @@ Recipes can also be referred to as collections of components
 
 ## Recipes - Order List
 
-<img src="../img/recipes-orderlist.png" width="600px" alt="Recipes Order List">
+<img src="../img/recipes-orderlist.png" width="400px" alt="Recipes Order List">
 
 - - -
 
