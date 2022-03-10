@@ -15,10 +15,10 @@ Also known as UI toolkits, design systems involve a more broad team including de
 - Comprised of Primary, Secondary, Accents, User Interface, Background, and Text
   - Variants use numbers which indicate different color opacity percentages
   - All colors are saved as styles
-- Do not give yourself TOO many options
+- Do *not* give yourself *too many* options
   - Accents will be used sparingly
   - UI colors give us flexibility with grayscale vs background and text
-    - 4 variants of gray (80, 60, 40, 20)
+    - 5 variants of gray (100, 80, 60, 40, 20)
   - Text grayscale will help with hierarchy
 
 <img src="../img/foundation-color.png" alt="Foundation Color">
@@ -65,13 +65,13 @@ Typography will make up a lot of your components and designs
   - Create variants (regular vs semi-bold) just in case you need them
 - All typography is saved as text styles
 
+<img src="../img/foundation-typography.png" alt="Foundation Typography">
+
 Design systems will provide context and a deeper understanding of styles
 
 - A language for an entire team, not just designers
 - Different design systems can be created for different purposes
   - Ex: Product vs marketing site
-
-<img src="../img/foundation-typography.png" alt="Foundation Typography">
 
 - - -
 
