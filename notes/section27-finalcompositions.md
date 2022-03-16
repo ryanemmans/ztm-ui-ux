@@ -2,6 +2,8 @@
 
 ## Using Our Design System Part 1
 
+<img src="../img/final-reg-login.png" alt="Splash, Registration, and Login">
+
 ## Using Our Design System Part 2
 
 ## Using Our Design System Part 3
