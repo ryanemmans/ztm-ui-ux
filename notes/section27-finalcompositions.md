@@ -6,6 +6,8 @@
 
 <img src="../img/final-home.png" width="600px" alt="Home">
 
+<img src="../img/final-wishlist.png" width="600px" alt="Wishlist">
+
 ## Using Our Design System Part 2
 
 ## Using Our Design System Part 3
