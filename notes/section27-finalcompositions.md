@@ -4,6 +4,8 @@
 
 <img src="../img/final-reg-login.png" alt="Splash, Registration, and Login">
 
+<img src="../img/final-home.png" width="600px" alt="Home">
+
 ## Using Our Design System Part 2
 
 ## Using Our Design System Part 3
