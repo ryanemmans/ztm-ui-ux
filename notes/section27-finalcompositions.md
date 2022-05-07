@@ -50,8 +50,6 @@
 
 ### Onboarding
 
-https://user-images.githubusercontent.com/86586274/167233608-2007698c-2554-4beb-adad-8e9d8a72a71d.mp4
-
 ### Login
 
 ### Search
