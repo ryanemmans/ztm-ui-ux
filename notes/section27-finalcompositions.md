@@ -51,8 +51,7 @@
 ### Onboarding
 
 <video controls autoplay loop>
-  <source src="../video/onboarding.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+https://user-images.githubusercontent.com/86586274/167233608-2007698c-2554-4beb-adad-8e9d8a72a71d.mp4
 </video>
 
 ### Login
