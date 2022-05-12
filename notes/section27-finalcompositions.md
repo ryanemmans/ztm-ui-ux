@@ -50,6 +50,10 @@
 
 ### Onboarding
 
+https://user-images.githubusercontent.com/86586274/168143648-e489b9b1-12ff-41c7-9ca5-dfaa1fe43e7a.mp4
+
+[Full interactive prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21240%3A15074&scaling=scale-down&page-id=20977%3A5285&starting-point-node-id=21240%3A14674)
+
 ### Login
 
 ### Search
