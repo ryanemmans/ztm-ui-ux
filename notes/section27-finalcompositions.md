@@ -54,6 +54,8 @@ https://user-images.githubusercontent.com/86586274/168143648-e489b9b1-12ff-41c7-
 
 [Onboarding prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21240%3A15074&scaling=scale-down&page-id=20977%3A5285&starting-point-node-id=21240%3A14674)
 
+<a href="https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21240%3A15074&scaling=scale-down&page-id=20977%3A5285&starting-point-node-id=21240%3A14674" target="_blank">Onboarding prototype on figma.com</a>
+
 ### Login
 
 https://user-images.githubusercontent.com/86586274/168145619-460db54f-73ee-4b17-80b5-57686a20abbc.mp4
