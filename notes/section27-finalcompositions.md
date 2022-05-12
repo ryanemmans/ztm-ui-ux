@@ -68,6 +68,10 @@ https://user-images.githubusercontent.com/86586274/168146872-68fa7bb9-d2fc-4014-
 
 ### Add to Cart
 
+https://user-images.githubusercontent.com/86586274/168148478-ca7b1062-27db-4c32-9bf7-e699e2f2245e.mp4
+
+[Add to cart prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21264%3A18296&scaling=scale-down&page-id=20977%3A5288&starting-point-node-id=21265%3A19910)
+
 ### Checkout
 
 - - -
