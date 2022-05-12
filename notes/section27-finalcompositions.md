@@ -70,9 +70,13 @@ https://user-images.githubusercontent.com/86586274/168146872-68fa7bb9-d2fc-4014-
 
 https://user-images.githubusercontent.com/86586274/168148478-ca7b1062-27db-4c32-9bf7-e699e2f2245e.mp4
 
-[Add to cart prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21264%3A18296&scaling=scale-down&page-id=20977%3A5288&starting-point-node-id=21265%3A19910)
+[Add to Cart prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21264%3A18296&scaling=scale-down&page-id=20977%3A5288&starting-point-node-id=21265%3A19910)
 
 ### Checkout
+
+https://user-images.githubusercontent.com/86586274/168153848-3e3ea610-3e2a-4089-b9e3-a2688bf0fe27.mp4
+
+[Checkout prototype on figma.com](https://www.figma.com/proto/ohjyfaRufH837wyO2zDf2x/Design-System-%2B-Final-Compositions?node-id=21311%3A21163&scaling=min-zoom&page-id=20977%3A5289&starting-point-node-id=21308%3A18270)
 
 - - -
 
