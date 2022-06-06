@@ -39,12 +39,24 @@
     - Key questions
     - What risks are they concerned about?
 
-<img src="../img/client-stakeholders.png" width="300px" alt="Stakeholders">
+<img src="../img/client-stakeholders.png" width="350px" alt="Stakeholders">
 
 ### **End users:** help make decisions on what to build
 ### **Key stakeholders:** provide opportunities to involve those who can influence the success of the project early
 
 ## User Journey Map
+
+User journey: The steps a user needs to take from beginning to end to complete a goal
+
+- Easiest and most basic way is to use a whiteboard and stickies
+  - Gather all tasks and features needed
+  - Is the customer experience positive or negative?
+  - Are there needs, interactions, or opportunites for improvement?
+  - Some tasks will need to be reassessed and are sometimes added to a backlog
+
+<img src="../img/client-userjourneymap.png" width="900px" alt="User Journey Map">
+
+<img src="../img/client-userwhiteboard.png" width="900px" alt="User Journey Whiteboard">
 
 ## Risky Assumptions
 
