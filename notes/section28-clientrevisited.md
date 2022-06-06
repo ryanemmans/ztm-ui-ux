@@ -2,9 +2,47 @@
 
 ## The Product Alignment Canvas
 
+- Asking basic questions about why we should be doing something
+  - Learning about assumptions around our users
+  - Meeting should consist of product team (designers, developers, managers, QA), clients, stakeholders
+    - All contribute to success of project
+  - Practice facilitation skills
+- Product Planner is a useful Figma plugin that provides a wide array of templates
+- Focus on project goals, target users, and user journeys
+
+
 ## Project Goals
 
+- What does a successful outcome look like?
+  - This is done collaboratively, to reveal everyone's perspectives
+  - Resolve conflicting priorities
+    - What problems are you trying to solve for this product?
+
+<img src="../img/client-goals.png" width="900px" alt="Project Goals">
+
 ## Target Users
+
+### 2 types of users - end users and stakeholders
+
+- Whose cooperation is required to the make project successful?
+  - United by common goals and concerns
+  - Varying roles and occupations
+- The goals of end users provide opportunities for developing features to help them get there faster, easier, or with more engagement
+  - Concerns help us understand what may hinder successful usage
+- What frustration or pain point are we trying to alleviate?
+
+<img src="../img/client-target-users.png" width="900px" alt="Target Users">
+
+- Success of the project can sometimes rely upon stakeholders more than end users
+  - Understanding goals and concerns of key stakeholders can inform decisions and reveal opportunities to validate direction of the product early and often
+    - Reduces probability of failure
+    - Key questions
+    - What risks are they concerned about?
+
+<img src="../img/client-stakeholders.png" width="300px" alt="Stakeholders">
+
+### **End users:** help make decisions on what to build
+### **Key stakeholders:** provide opportunities to involve those who can influence the success of the project early
 
 ## User Journey Map
 
