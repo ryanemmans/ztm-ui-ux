@@ -31,7 +31,7 @@
   - Concerns help us understand what may hinder successful usage
 - What frustration or pain point are we trying to alleviate?
 
-<img src="../img/client-target-users.png" width="900px" alt="Target Users">
+<img src="../img/client-endusers.png" width="900px" alt="End Users">
 
 - Success of the project can sometimes rely upon stakeholders more than end users
   - Understanding goals and concerns of key stakeholders can inform decisions and reveal opportunities to validate direction of the product early and often
@@ -59,6 +59,21 @@ User journey: The steps a user needs to take from beginning to end to complete a
 <img src="../img/client-userwhiteboard.png" width="900px" alt="User Journey Whiteboard">
 
 ## Risky Assumptions
+
+- One of the primary sources of wasted effort when building applications
+  - Team can help reduce risk and uncertainty by calling out all this information during initial canvas
+  - Place asterisk next to low confidence assumptions
+
+Examples of assumptions that can affect success of a project if proven wrong:
+
+- Personalized experience will be better for users
+- Building features of little value to end users
+- Types of users / devices
+- End user goal
+
+At the end, we will do our best to validate assumptions
+
+<img src="../img/client-assumptions.png" width="900px" alt="Risky Assumptions">
 
 ## What is a User Story Map?
 
