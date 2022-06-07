@@ -77,7 +77,40 @@ At the end, we will do our best to validate assumptions
 
 ## What is a User Story Map?
 
+- How we consistently help clients or product team to release small incremental portions of value at any time
+  - Know when the product is viable
+- Product planning method, helps owner and team focus on end user business outcomes
+  - What to build and when to build it
+- This map helps complement the flat backlog
+  - The work is broken into many different pieces that live in the backlog
+  - A ***backlog*** is essentially just a long list of different types of features
+- User story map helps prioritize activities for release
+
+### Story maps consist of personas (ie: shopper), backbones, and the body
+
+- Backbone is made up of high level activities an app will facilitate in order of priority
+  - Main Activities and Tasks
+    - Activities: highest portion or "epic", houses all features within a category
+      - What user does in relation to application
+    - Tasks: describe events that need to happen in order for user to complete the larger activity
+      - Ex: Entering personal details
+- The body consists of user stories and releases
+  - Details of how to make tasks happen
+    - User stories: how tasks are done to meet the goal
+      - Help us understand different steps needed to complete individual tasks and reasoning / user motivation
+    - Releases: describe usable and testable versions of app that can be released
+      - As small, yet as descriptive as possible
+
+Design first release within scope first, then validate it
+
+- Always be thinking of ways to implement smallest release possible to build enhancements
+- Do not commit to too much
+  - User stories are still risks and assumptions
+  - Taking on too much before validation can be expensive
+
 ## Creating a User Story Map
+
+<img src="../img/client-userstorymap.png" width="900px" alt="User Story Map">
 
 - - -
 
