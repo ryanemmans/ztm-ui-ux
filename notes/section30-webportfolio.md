@@ -43,6 +43,12 @@ ryanscott.design - designer for Airbnb, Doordash
 
 ## Where to Host Your Web Portfolio
 
+- Squarespace - great way to come up with a design template to get your work out there quickly
+  - No need to worry about coding or responsiveness
+  - Aesthetically pleasing right out of the box
+- GitHub Pages - more tactile approach if you want to write your own code
+  - Free hosting
+
 - - -
 
 [back](../README.md)
