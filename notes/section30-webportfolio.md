@@ -1,13 +1,12 @@
 # Section 30 - Web Portfolio
 
-## How to Export and Place Designs
+## How To Export and Place Designs
 
 <img src="../img/habitual-1.png" width="900px" alt="Habitual Screens Export">
 
 <img src="../img/habitual-2.png" width="900px" alt="Habitual Mockup Export">
 
-
-## Content for Your Portfolio
+## Content For Your Portfolio
 
 - Employers will hire you for your brain, not just because you can design pretty things
   - They want to see that you can think through different types of problems and come up with great solutions.
@@ -17,7 +16,7 @@
     - Problem, type of research, ***PROCESS***
     - What was done in order to get to the end?
 
-```
+```pt
 lifeofpai.com - senior product designer at Spotify
 karoliskosas.com - product designer for DX at Stripe
 ryanscott.design - designer for Airbnb, Doordash
@@ -26,8 +25,8 @@ ryanscott.design - designer for Airbnb, Doordash
 - Case studies - keep it *simple*, focus on interactions and problems that are being solved
 - Show up to 3 projects
   - State problem domain, proposed solution, and contributions/roles
-  - Discuss developer collaboration, etc. (demonstrate teamwork) 
-  - Use a screen recorder to show animations / interactions (Screenflow) 
+  - Discuss developer collaboration, etc. (demonstrate teamwork)
+  - Use a screen recorder to show animations / interactions (Screenflow)
   - Provide more in depth explanation further down the page
     - Captions provide context with screens
   - Process - show interations - V1 all the way to MVP
@@ -41,7 +40,7 @@ ryanscott.design - designer for Airbnb, Doordash
 - ***Demonstrate thoughtfulness,*** show that you are thorough
 - How can a solution be successful? Show all the different ways
 
-## Where to Host Your Web Portfolio
+## Where To Host Your Web Portfolio
 
 - Squarespace - great way to come up with a design template to get your work out there quickly
   - No need to worry about coding or responsiveness
