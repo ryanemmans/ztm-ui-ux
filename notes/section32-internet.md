@@ -52,7 +52,23 @@ traceroute google.com
 
 ## Developer Fundamentals: I
 
+### **IMPORTANT!**
+
+Without writing a single line of code, understanding how the internet works helps us improve the performance of a website.
+
+- What would make a website load faster?
+  - Location of Server
+  - How Many Trips (ideally just one)
+  - Size of Files
+
 ## What Does a Developer Do?
+
+- Front End Developer - HTML, CSS, JavaScript + React, etc.
+  - What the user sees
+- Back End Developer - Works with server (Node.js, Express, etc.)
+  - When browser speaks to server, ensures files can be delivered
+  - Server will communicate with Database (PostgreSQL, etc.)
+- Full Stack combines both front end and back end
 
 - - -
 
