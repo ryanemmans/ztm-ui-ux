@@ -24,7 +24,7 @@
 - Router is connected to a modem which allows ISP to connect to it through signal towers (wireless transmitters)
 - Signal towers are connected directly to ISP through cables, ISP is also connected to Internet Backbone through cables
 
-The Internet Backbone is a network comprised of physical submarine cables that run along the bottom of the sea floor
+### The Internet Backbone is a network comprised of physical submarine cables that run along the bottom of the sea floor
 
 - Allows us to transfer files all over the world in seconds
 
@@ -36,8 +36,19 @@ The Opte Project [Internet Timelapse](https://www.youtube.com/watch?time_continu
 
 - The internet is essentially a network of connected computers that can transfer files between each other
 
-
 ## Traceroute
+
+In terminal:
+
+```pt
+traceroute google.com
+```
+
+<img src="../img/traceroute.png" width="600px" alt="Traceroute">
+
+- Shows various stops made to arrive at final IP address
+- Traceroute monitors where your requests go
+  - All IP addresses are different computers attempting to locate Google servers
 
 ## Developer Fundamentals: I
 
