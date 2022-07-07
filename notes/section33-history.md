@@ -27,9 +27,43 @@ The World Wide Web is an agreed upon common language and protocol
 
 ## HTML, CSS, JavaScript
 
+HTML is a way for us to write text on websites
+
+- Hyperlinks can link to other parts of a website
+- This was initially a way to share documents in 1991
+
+CSS and JavaScript came around in '95/'96
+
+- CSS adds visual aspects and aesthetics
+- JavaScript adds interaction
+
 ## Developer Fundamentals: II
 
+We have multiple web browsers, first created as a standardized way to share web documents
+
+- Files can be read using HTML, CSS, and JavaScript
+- Browser wars - each browser had their own implementations and way of doing things
+  - This still exists to some degree today
+  - Chrome, Safari, Firefox, Edge, etc.
+
+To this day, a major pain point for developers is the need to have files appear the same across all web browsers.
+
+- Mobile devices and tablets also means pages must be responsive to different screen sizes
+- Pages will need to be tested on every browser and every device
+
 ## Developer History
+
+- Early 2000s - web pages were built using HTML, CSS, JavaScript, and also JQuery
+  - JQuery - library that allowed JavaScript to be written in a simple, clean way
+  - Enabled JavaScript to work across all browsers
+  - Backend - LAMP Stack
+    - Linux, Apache, MySQL, PHP
+    - PHP enabled logic on Apache servers
+    - MySQL (database)
+- Current developers
+  - Frontend - HTML5, CSS3, JavaScript + React
+  - Backend - Node.js + Express.js (server), PostgreSQL + MongoDB (database)
+  - Clean, fast, bug free applications
 
 - - -
 
