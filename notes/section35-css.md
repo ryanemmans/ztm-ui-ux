@@ -116,7 +116,8 @@ footer {
 
 ## px vs em vs rem
 
-- em is the size relative to it's parent container
+- pixels are absolute units
+- `em` is the size relative to it's parent element
 
 ```css
 p {
@@ -128,7 +129,7 @@ span {
 }
 ```
 
-- rem is the size relative to root element (HTML)
+- `rem` is the size relative to root element (`<html>`)
   - Changing parent element does not affect this
 
 [What’s The Difference Between PX, EM, REM, %, VW, and VH?](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/)
