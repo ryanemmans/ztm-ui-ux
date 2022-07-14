@@ -20,8 +20,8 @@ Notes and shortcuts: [here](https://www.figma.com/best-practices/tips-on-develop
 
 <img src="../img/splash-page.png" width="900px" alt="Habitual Mockup Splash Page">
 
-- [HTML](../--%20template-splash-page/index.html)
-- [CSS](../--%20template-splash-page/style.css)
+- [HTML](../section31/index.html)
+- [CSS](../section31/style.css)
 
 - - -
 

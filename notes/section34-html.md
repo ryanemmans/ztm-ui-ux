@@ -82,7 +82,7 @@ Most servers will by default return `index.html` first.
 
 ## HTML Forms
 
-[HTML file for Register form](../pages/register.html)
+[HTML file for Register form](../section34/register.html)
 
 <img src="../img/register-html.png" width="600px" alt="Register HTML">
 <img src="../img/register-page.png" width="300px" alt="Register Page">
@@ -121,9 +121,30 @@ firstname=fake
 
 ## HTML vs HTML 5
 
-## Copy a Website
+HTML5 was the evolution of HTML that enabled the improvement of user experience across all browsers and devices.
 
-## HTML Challenge
+- Tries to improve the performance of the web, as we are constantly evolving
+- Does not affect old websites (backwards compatible)
+- New features and **Semantic Elements**
+  - `<article>`, `<aside>`, `<details>`, `<figcaption>`, `<figure>`, `<footer>`, `<header>`, `<main>`, `<mark>`, `<nav>`, `<section>`, `<summary>`, `<time>`
+  - Make websites more descriptive
+  - Search engines use crawlers to read through HTML and understand what a website is
+
+    ```html
+    <header>
+      <h1>Register</h1>
+    </header>
+    <nav>
+      <a href="https://www.google.com/">Google</a>
+    </nav>
+    <footer>
+      <p>Website made with love</p>
+    <footer>
+    ```
+
+- Many new attributes as well
+  - eg: for `<input>`
+    - `disabled`, `max`, `maxlength`, `min`, `palette`, `readonly`, `required`, `size`, `step`, `value`
 
 - - -
 
