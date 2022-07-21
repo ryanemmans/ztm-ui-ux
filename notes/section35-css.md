@@ -160,6 +160,35 @@ A browser cannot render a webpage until it receives the CSS
 
 ## Flexbox
 
+```css
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 3em;
+  border-bottom: 2px solid pink;
+  border-right: 2px solid pink;
+  border-radius: 0 0 16px 0;
+  width: 400px;
+  text-align: center;
+}
+
+img {
+  width: 450px;
+  height: 300px;
+  margin: 10px;
+  box-shadow: 0 12px 32px -12px rgb(0 0 0 / .5);
+  border-radius: 16px;
+}
+```
+
+- [CSS Flexbox](../section35/flexbox/index.html)
+- [ Flexbox Froggy Exercise](http://flexboxfroggy.com/)
+
 ## CSS 3
 
 ## Responsive UI
