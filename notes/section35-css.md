@@ -191,6 +191,28 @@ img {
 
 ## CSS 3
 
+CSS is a standard that constantly evolves to adapt to new demands of websites
+
+```css
+img {
+  transition: all 1s;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+```
+
+- [CSS Browser Support Reference](https://www.w3schools.com/cssref/css3_browsersupport.asp)
+  - Browser support prefixes:
+    - `-webkit-` (Safari / Chrome / Edge)
+    - `-moz-` (Firefox)
+    - `-ms-` (Internet Explorer)
+    - `-o-` (Opera)
+- [Can I use ___ ?](https://caniuse.com/)
+
+<img src="../img/caniuse.png" width="900px" alt="caniuse.com">
+
 ## Responsive UI
 
 - - -
