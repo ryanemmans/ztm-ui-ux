@@ -136,6 +136,28 @@ span {
 
 ## Critical Render Path
 
+A path that a website takes to display something to the user
+
+- Our website will be on a server
+- Browser requests HTML file from server
+- Browser sees file and reads through document
+- Then makes a request for CSS file from server
+- Browser will look at both HTML and CSS files to render/display page.
+- Browser will request any fonts needed (eg: Google API)
+
+### **CSS is a render blocking file**
+
+A browser cannot render a webpage until it receives the CSS
+
+- If there are font files, you will also have to wait for text to render on page
+
+### **How to make websites load faster?**
+
+- Provide your own font files
+- Do not make CSS files too large
+  - *Minifying* your CSS - [CSS Minify](https://www.cleancss.com/css-minify/)
+    - Removes all white space, so all code is on one line, drastically reducing file size
+
 ## Flexbox
 
 ## CSS 3
