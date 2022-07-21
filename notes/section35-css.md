@@ -213,7 +213,13 @@ img:hover {
 
 <img src="../img/caniuse.png" width="900px" alt="caniuse.com">
 
+- [CSS Transitions](https://thoughtbot.com/blog/transitions-and-transforms) (Amazing Resource)
+
 ## Responsive UI
+
+- A website should look good and seamless regardless of the device it's being viewed on
+  - & Regardless of its orientation (ie: portrait or landscape on mobile / tablet)
+  - Developer Tools (`cmd opt i`) -> Toggle device toolbar (`cmd shift m`)
 
 - - -
 
