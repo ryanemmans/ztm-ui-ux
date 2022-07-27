@@ -52,6 +52,8 @@
 [Grid Documentation](https://getbootstrap.com/docs/5.2/layout/grid/)
 
 ```html
+<!-- These columns will be responsive depending on window or device size. -->
+
 <div class="container">
   <div class="row align-items-start">
     <div class="col col-sm-6 col-md-12 col-lg-12">
@@ -68,6 +70,22 @@
 ```
 
 ## Exercise: Startup Landing Page
+
+- `<meta>` tags allow us to add new information to our page
+- `viewport` allows us to create webpages that are *mobile first*
+  - scrolling, touching, zooming, etc.
+- `utf-8` is the form of encoding to write text on a webpage
+
+```html
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+```
+
+### Landing Page Exercise
+
+- [HTML with Bootstrap](../section36/startup/index.html)
+- [CSS](../section36/startup/style.css)
 
 ## Exercise: Adding Email Subscribe Form with MailChimp
 
