@@ -97,7 +97,9 @@ Mailchimp is an email marketing service
 
 ## Exercise: Putting Your Website Online
 
-[Deployed Startup Landing Page on Github  Pages](https://ryanemmans.github.io/startup/)
+We can use GitHub pages to easily publish our pages to the web
+
+[Deployed Startup Landing Page](https://ryanemmans.github.io/startup/)
 
 ## Developer Fundamentals: IV
 
