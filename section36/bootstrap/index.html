@@ -12,6 +12,7 @@
 </head>
 
 <body>
+  <!-- Nav Bar -->
   <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
@@ -52,6 +53,7 @@
     </div>
   </nav>
 
+  <!-- Hero Unit -->
   <div class="shadow-lg m-4 p-5 bg-light rounded">
     <h1 class="display-4">Hello, world!</h1>
     <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to
@@ -59,12 +61,11 @@
     <hr class="my-4">
     <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-light btn-lg" data-bs-toggle="modal" data-bs-target="#exampleModal">
+      Launch demo modal
+    </button>
   </div>
-
-  <!-- Button trigger modal -->
-  <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#exampleModal">
-    Launch demo modal
-  </button>
 
   <!-- Modal -->
   <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -81,6 +82,21 @@
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
           <button type="button" class="btn btn-primary">Save changes</button>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Grid -->
+  <div class="container">
+    <div class="row m-4">
+      <div class="col col-sm-6 col-md-12 col-lg-12">
+        1 of 3 columns
+      </div>
+      <div class="col col-sm-3 col-md-6 col-lg-12">
+        2 of 3 columns
+      </div>
+      <div class="col col-sm-3 col-md-6 col-lg-12">
+        3 of 3 columns
       </div>
     </div>
   </div>

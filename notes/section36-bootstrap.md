@@ -26,6 +26,7 @@
 - CSS and JS files could be downloaded
 - Or linked through a CDN
   - Content Delivery Network, where Bootstrap hosts the files for us
+  - [What is a CDN?](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 
   ```html
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
@@ -42,7 +43,29 @@
 
 ## Bootstrap 5 Update
 
+- Packages, libraries, and tools are constantly being updated
+  - Projects must be maintained
+  - Bootstrap's latest version is 5.2.0, and our code must reflect that.
+
 ## Bootstrap Grid
+
+[Grid Documentation](https://getbootstrap.com/docs/5.2/layout/grid/)
+
+```html
+<div class="container">
+  <div class="row align-items-start">
+    <div class="col col-sm-6 col-md-12 col-lg-12">
+      1 of 3 columns
+    </div>
+    <div class="col col-sm-3 col-md-6 col-lg-12">
+      2 of 3 columns
+    </div>
+    <div class="col col-sm-3 col-md-6 col-lg-12">
+      3 of 3 columns
+    </div>
+  </div>
+</div>
+```
 
 ## Exercise: Startup Landing Page
 
