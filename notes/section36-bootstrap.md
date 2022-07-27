@@ -89,6 +89,12 @@
 
 ## Exercise: Adding Email Subscribe Form with MailChimp
 
+Mailchimp is an email marketing service
+
+- It is easy to use and edit templates to allow users to sign up for mailing lists
+
+<img src="../img/mailchimp-landing-page.png" width="900px" alt="Mailchimp">
+
 ## Exercise: Putting Your Website Online
 
 ## Developer Fundamentals: IV
