@@ -103,7 +103,36 @@ We can use GitHub pages to easily publish our pages to the web
 
 ## Developer Fundamentals: IV
 
+[Animate.style/](https://animate.style/) (Previously animate.css)
+
+- When we're building websites, it is very rare that we build something from scratch
+  - Most of the time you will build on top of something that has already been created
+  - Otherwise the entire developer environment will be very tedious
+- Be efficient with your time and limited resources
+  - Seek out tools and libraries (eg: Bootstrap or animate.style) that already exist that will solve your problems.
+  - If they don't exist already, *then* you can implement your own
+
+[Creative Tim](https://www.creative-tim.com/) - Fully Coded UI Tools and Themes to create web and mobile apps
+
 ## Using Templates
+
+- With all the knowledge we've obtained, we can now leverage other peoples' templates
+  - Google "free HTML5 templates" or "free HTML CSS templates" for a ton of free resources
+
+[Mashup Templates](http://www.mashup-template.com/templates.html)
+
+### The Power of the Web
+
+- The Web allows programmers to share pieces of code so we don't have to reinvent things from scratch
+
+### Additional Resources
+
+- [cruip.com/](https://cruip.com/)
+- [Mashup Templates](http://www.mashup-template.com/templates.html)
+- [Creative Tim](https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price)
+- [Free Bootstrap Templates](https://mdbootstrap.com/freebies/)
+- [More Free Bootstrap Templates](https://startbootstrap.com/templates)
+- [Animate.style](https://animate.style/)
 
 - - -
 
