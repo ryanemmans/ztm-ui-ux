@@ -109,7 +109,7 @@ We can use GitHub pages to easily publish our pages to the web
 - Be efficient with your time and limited resources
   - Seek out tools and libraries (eg: Bootstrap or animate.style) that already exist that will solve your problems.
   - If they don't exist already, *then* you can implement your own
-- [Animate.style/](https://animate.style/) (Previously animate.css)
+- [Animate.style](https://animate.style/) (Previously animate.css)
 - [Creative Tim](https://www.creative-tim.com/) - Fully Coded UI Tools and Themes to create web and mobile apps
 
 ## Using Templates
