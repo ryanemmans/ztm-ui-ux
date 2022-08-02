@@ -157,7 +157,7 @@ footer {
 ## Solution: Prettify
 
 - The key point is to start with your layout using Flexbox and CSS Grid
-- From there it is up to your creativity to build on aesthetics and beauty
+- From there it is up to your creativity to put content in its place and build on aesthetics and beauty
 
 ```css
 body {
@@ -187,6 +187,15 @@ body {
 ```
 
 ## The Truth About CSS
+
+- CSS is notoriously difficult and can be frustrating to learn
+- There are so many properties and no way to remember all of them
+  - If you are going to pursue being a developer, do not get hung up on CSS
+  - Instead focus on JavaScript, as it will be roughly 80% of your job
+    - More CSS knowledge will come with time.
+- For design roles, HTML/CSS knowledge will be more important.
+
+## END OF COURSE!! 🎉
 
 - - -
 
