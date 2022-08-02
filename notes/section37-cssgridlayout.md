@@ -22,6 +22,8 @@ Using CSS for layout is a very important skill as a developer
 
 ## CSS Grid
 
+### [GRID CHEATSHEET!](https://grid.malven.co/)
+
 ```css
 .container {
   display: grid;
@@ -58,20 +60,99 @@ grid-column: span 2;
 /* Content will span 2 grids */
 ```
 
-The above can also be used for `grid-row`, but we have to be careful with positioning
-
+- The above can also be used for `grid-row`, but we have to be careful with positioning
 - `justify-self` - determines position of column (`start` or `end`)
 - `align-self` - determines position of row (`start` or `end`)
 
-### [GRID CHEATSHEET!](https://grid.malven.co/)
-
 ## Exercise: CSS Layout
+
+[HTML](../section37/css-layout/index.html)
+[CSS](../section37/css-layout/style.css)
 
 ## Solution: Navigation Bar
 
+```css
+body {
+  margin: auto 0;
+}
+
+.zone {
+    /* padding:30px 50px;
+    margin:40px 60px; */
+    cursor:pointer;
+    /* display:inline-block; */
+    color:#FFF;
+    font-size:2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.2s linear;
+}
+
+/* NAV */
+.main-nav {
+  display: flex;
+  list-style: none;
+  font-size: 0.7em;
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .main-nav {
+    font-size: 0.5em;
+    padding: 0;
+  }
+}
+
+.push {
+  margin-left: auto;
+}
+
+li {
+  padding: 20px;
+}
+
+a {
+  color: #f5f5f6;
+  text-decoration: none;
+}
+```
+
 ## Solution: Cover
 
+```css
+/* COVER */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+```
+
 ## Solution: Project Grid + Footer
+
+```css
+/* GRID */
+.grid-wrapper {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
+.box > img {
+  width: 100%;
+}
+
+.box {
+  background-color: #444;
+  padding: 130px;
+  margin: 20px;
+}
+
+footer {
+  text-align: center;
+}
+```
 
 ## Solution: Prettify
 
