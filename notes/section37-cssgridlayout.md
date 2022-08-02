@@ -66,8 +66,8 @@ grid-column: span 2;
 
 ## Exercise: CSS Layout
 
-[HTML](../section37/css-layout/index.html)
-[CSS](../section37/css-layout/style.css)
+- [HTML](../section37/css-layout/index.html)
+- [CSS](../section37/css-layout/style.css)
 
 ## Solution: Navigation Bar
 
@@ -155,6 +155,36 @@ footer {
 ```
 
 ## Solution: Prettify
+
+- The key point is to start with your layout using Flexbox and CSS Grid
+- From there it is up to your creativity to build on aesthetics and beauty
+
+```css
+body {
+  margin: auto 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.box:hover {
+  -webkit-transform: rotate(-7deg);
+  -moz-transform: rotate(-7deg);
+  -o-transform: rotate(-7deg);
+  transform: rotate(-7deg);
+}
+
+/* NAV */
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.cover {
+  width: 30rem;;
+}
+```
 
 ## The Truth About CSS
 
